@@ -30,7 +30,7 @@ This tool is ideal for small projects, personal use, or educational purposes to 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/mhkazemidk-cpu/pyvcs.git
    cd pyvcs
    ```
 
