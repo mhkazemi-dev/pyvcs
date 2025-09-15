@@ -2,6 +2,9 @@
 
 A simple, lightweight version control system (VCS) written in Python. It provides basic snapshot-based tracking of file changes in a directory, with automatic detection of modifications and a graphical user interface (GUI) for viewing history, diffs, and file structures.
 
+<img width="1094" height="825" alt="image" src="https://github.com/user-attachments/assets/648ac1d1-d770-4cd5-9aaa-e7df734e4cd6" />
+
+
 ## Description
 
 pyvcs is designed as a minimalistic VCS tool for local directories. It creates "snapshots" of your project's files, storing hashed blobs of file contents and JSON manifests for each snapshot. Changes are detected automatically via a file watcher, triggering auto-snapshots, or you can create them manually. The GUI allows browsing snapshots on a timeline, comparing changes, viewing diffs, and exporting overviews.
