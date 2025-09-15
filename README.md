@@ -2,7 +2,6 @@
 
 A simple, lightweight version control system (VCS) written in Python. It provides basic snapshot-based tracking of file changes in a directory, with automatic detection of modifications and a graphical user interface (GUI) for viewing history, diffs, and file structures.
 
-<img width="1094" height="825" alt="image" src="https://github.com/user-attachments/assets/648ac1d1-d770-4cd5-9aaa-e7df734e4cd6" />
 
 
 ## Description
